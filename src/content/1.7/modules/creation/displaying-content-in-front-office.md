@@ -353,7 +353,9 @@ With just a few lines, the end result is already much better, with the
 "Welcome" line neatly placed between header, footer and columns!
 
 It is only a first step, but this gives you an idea of what is possible
-if you follow the templating rules. Using Smarty
+if you follow the templating rules. 
+
+Using Smarty
 
 Smarty is a PHP template engine, and is used by PrestaShop's theming
 system. It is a free and open-source projet, hosted at
